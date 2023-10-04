@@ -1,4 +1,5 @@
-# white_test of collab w ingrid
+# white test of conflict resolution
+
 
 Test repo for git / github lesson
 
