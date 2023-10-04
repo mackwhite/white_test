@@ -1,4 +1,4 @@
-# white_test
+# white test of conflict resolution
 
 Test repo for git / github lesson
 
